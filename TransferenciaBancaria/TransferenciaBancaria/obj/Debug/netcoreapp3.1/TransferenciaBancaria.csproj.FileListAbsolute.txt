@@ -1,0 +1,14 @@
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.exe
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.deps.json
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.runtimeconfig.json
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.runtimeconfig.dev.json
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.dll
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.pdb
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.csproj.AssemblyReference.cache
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.AssemblyInfo.cs
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.dll
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.pdb
+C:\Users\wiljr\Desktop\AplicacaoTransferinciaBancaria\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.genruntimeconfig.cache
